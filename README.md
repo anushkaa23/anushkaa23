@@ -125,14 +125,9 @@ I am currently **seeking full-time Software Engineering roles** where I can work
 
 </div> -->
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anushkaa23&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaa23&layout=compact&theme=dracula&cache_seconds=1800"
-    height="150"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushkaa23&show_icons=true&theme=dracula" height="150"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushkaa23&layout=compact&theme=dracula" height="150"/>
+
 </div>
 
 
